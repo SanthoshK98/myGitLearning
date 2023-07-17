@@ -1,1 +1,1 @@
-console.log('second file created on master branch')
+console.log('This is feature/second')
